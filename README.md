@@ -1,4 +1,4 @@
-# MICROS
+# MICROS - Tetris
 
 ## Integrantes del equipo
 
